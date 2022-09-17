@@ -28,6 +28,21 @@ p {
   margin-right: 10px;
 }
 
+.btn-dash {
+  width: 50px;
+}
+
 .img-small {
   width: 180px;
+}
+
+#green-button {
+  width: 200px;
+  border-radius: 5px;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 23px;
+  left: 23px;
 }
